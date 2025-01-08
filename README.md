@@ -8,3 +8,4 @@ These are the necessary details to get information from the chat box, which you 
 Every day at 2 AM UTC, you will receive a chart from Telegram to get the gold price you need daily.
 
 After that, just run the **start.sh** file, and you're all set!
+![image](https://github.com/user-attachments/assets/a7be00c8-31dc-4773-892c-0235f572ee52)
