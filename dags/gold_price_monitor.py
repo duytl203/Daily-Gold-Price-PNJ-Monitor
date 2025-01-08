@@ -1,4 +1,3 @@
-import psycopg2, hashlib
 import gold_price_etl_secret_code
 import telegram
 import asyncio
