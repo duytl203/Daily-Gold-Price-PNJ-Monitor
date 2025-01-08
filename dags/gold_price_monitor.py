@@ -15,7 +15,7 @@ chat_id,bot_token = gold_price_etl_secret_code.get_information_telegram()
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime(2024, 12, 9),
+    'start_date': datetime(2024, 8, 9),
     'retries': 0,  # Disable retries
     'retry_delay': timedelta(minutes=5),
 }
