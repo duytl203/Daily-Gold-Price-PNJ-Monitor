@@ -5,4 +5,6 @@ When using it, you just need to replace the **chat_id** and **bot_token** in the
 
 These are the necessary details to get information from the chat box, which you will have to create yourself in Telegram. To create your own chat box, you can search on Google for more information!
 
+Every day at 2 AM UTC, you will receive a chart from Telegram to get the gold price you need daily.
+
 After that, just run the **start.sh** file, and you're all set!
